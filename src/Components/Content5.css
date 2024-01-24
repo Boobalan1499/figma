@@ -1,0 +1,212 @@
+.container5{
+    width:100%;
+    height:400px;
+    background-color:rgba(0, 229, 255, 1);
+}
+.title5{
+    font-weight: bold;
+    font-size: 3rem;
+    padding-top: 38px;
+    text-align: center;
+    color: white;
+}
+.fair{
+    color:rgba(101, 31, 255, 1);
+}
+.pay{
+    text-align: center;
+    margin: 0 auto;
+    color:white;
+}
+.container6{
+    width:100%;
+    height:550px;
+    background-color:white;
+}
+.box11{
+    border-radius: 12px;
+    width:460px;
+    position: relative;
+    top:-168px;
+    height:410px;
+    background-color: white;
+}
+
+.row7{
+    padding-left: 100px;
+    display: flex;
+}
+.box-title8{
+    font-weight: bold;
+    font-size: 2rem;
+    text-align: center;
+    padding-top:20px ;
+}
+.box-text8{
+    margin: 0 auto;
+    padding-left: 10px;
+    font-size: small;
+    width: 280px;
+    text-align: center;
+    color:rgba(131, 134, 150, 1);
+}
+.dollar{
+    font-weight: bold;
+    font-size: 3.5rem;
+    text-align: center;
+    padding-left: 150px;
+    padding-top: 10px;
+    width:300px;
+}
+.gb{
+    font-weight: bold;
+    font-size: 1.2rem;
+    position: relative;
+    top:-40px;
+}
+.minutes{
+    padding:10px 110px;
+    border-radius: 12px;
+    background-color: rgba(101, 31, 255, 1);
+    color: white;
+    border-style:none ;
+    margin-left: 50px;
+    position: relative;
+    top:-30px;
+    
+}
+.line1{
+    position: relative;
+    left:90px;
+    font-size: small;
+    color: rgba(92, 95, 110, 1);
+}
+.line2{
+    position: relative;
+    left:90px;
+    top:-15px;
+    font-size: small;
+    color: rgba(92, 95, 110, 1);
+}
+.line3{
+    position: relative;
+    left:90px;
+    top:-30px;
+    font-size: small;
+    color: rgba(92, 95, 110, 1);
+}
+.tick{
+    margin-right: 4px;
+    font-size: 20px;
+}
+.box-title9{
+    font-weight: bold;
+    padding-left: 40px;
+    padding-top: 30px;
+    color: white;
+
+}
+.box12{
+    border-radius: 0px 12px 15px 0px;
+    position: relative;
+    left:285px;
+    width:470px;
+    top:-130px;
+    height: 350px;
+    background-color: rgba(101, 31, 255, 1);
+
+}
+.box-text9{
+  font-size: 13px;
+  padding-left: 40px;
+  width: 350px;
+  color: rgba(236, 236, 254, 1);
+
+}
+.inbound{
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 20px;
+    height: 24px;
+    font-size: small;
+    font-weight: bold;
+    text-align: center;
+    margin-left: 38px;
+    margin-top: 15px;
+    color: rgba(101, 31, 255, 1);
+    background-color: rgba(236, 236, 254, 1);
+    border-style: none;
+}
+.outbound{
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 20px;
+    height: 24px;
+    font-size: small;
+    font-weight: bold;
+    text-align: center;
+    margin-left: 38px;
+    margin-top: 10px;
+    color: rgba(224, 247, 250, 1);
+    background-color: rgba(34, 211, 238, 1);
+    border-style: none;
+}
+.dollar1{
+    font-weight: bold;
+    margin-top: 10px;
+    padding-left: 45px;
+    font-size: 2rem;
+    color: white;
+}
+.gb1{
+    font-size: 15px;
+    font-weight: bold;
+}
+.dollar2{
+    font-weight: bold;
+    font-size: 2rem;
+    padding-left: 45px;
+    margin-top: 10px;
+    color: white;
+
+}
+.gb2{
+    font-size: 15px;
+    font-weight: bold;
+    
+}
+.never{
+    position: relative;
+    top:-60px;
+    padding-left: 180px;
+    font-size: larger;
+    width:880px;
+    color: rgba(92, 95, 110, 1);
+    
+}
+.never1{
+    position: relative;
+    top:-105px;
+    font-size: larger;
+    padding-left: 170px;
+    color: rgba(92, 95, 110, 1);
+    
+}
+.pricing{
+    position: relative;
+    top:-80px;
+    left:380px;
+    padding: 2px 15px;
+    border-radius: 8px;
+    color: white;
+    background-color: rgba(101, 31, 255, 1);
+    border-style: none;
+}
+.comparison{
+    position: relative;
+    top:-80px;
+    left:350px;
+    padding: 0 20px;
+    border-radius: 8px;
+    margin-left: 50px;
+}

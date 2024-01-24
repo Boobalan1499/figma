@@ -1,0 +1,22 @@
+.header{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    background: #fff;
+    padding: 10px 2%;
+    height:50px;
+}
+.logo{
+ width: 160px;
+ cursor: pointer;
+ height:27px;
+}
+ul{
+    list-style: none;
+}
+ul li{
+    display: inline-block;
+    margin: 2px 8px;
+    font-size: 15px;
+    cursor: pointer;
+}

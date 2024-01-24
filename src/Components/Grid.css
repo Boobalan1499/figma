@@ -1,0 +1,68 @@
+.container{
+    padding:30px;
+}
+.row{
+    display: flex;
+    flex-direction: row;
+    padding-left: 130px;
+}
+.card1{
+    width:200px;
+    background-color:rgba(101, 31, 255, 1);
+    border-radius: 12px;
+    padding-left: 20px;
+
+}
+.card2{
+    width:200px;
+    background-color:rgba(101, 31, 255, 1);
+    border-radius: 12px;
+    padding-left: 20px;
+    margin-left:20px;
+}
+.card3{
+    width:200px;
+    background-color:rgba(101, 31, 255, 1);
+    border-radius: 12px;
+    padding-left: 20px;
+    margin-left: 40px;
+}
+
+
+.card-titles{
+    font-weight: bold;
+    color: azure;
+    padding-left:8px;
+    padding-top: 15px;
+}
+.card-text{
+    line-height: 20px;
+    color:rgba(236, 236, 254, 1);
+    font-size:x-small;
+    padding-left:8px;
+    padding-right: 20px;
+
+}
+.sub{
+    font-size:small;
+    color:rgba(255, 255, 255, 1);
+    padding-left:8px;
+    padding-bottom: 20px;
+
+}
+.hole{
+    width:40px;
+    padding-top:30px;
+    padding-left:10px;
+}
+.node{
+    width:45px;
+    padding-top: 30px;
+    padding-left:15px;
+}
+.block{
+    width:42px;
+    height:58px;
+    padding-top: 30px;
+    padding-left:12px;
+}

@@ -1,0 +1,145 @@
+.how{
+    font-weight: bold;
+    padding-left: 460px;
+    padding-top: 70px;
+}
+.para5{
+    font-size: 1rem;
+    color:rgba(131, 134, 150, 1);
+    width:920px;
+    padding: 0px;
+    margin: 0 auto;
+    text-align: center;
+    max-width: 620px;
+}
+.content7{
+    display: flex;
+    padding-top: 120px;
+}
+.file1{
+    position: relative;
+    left:250px;
+}
+.pen{
+     font-size: 35px;
+     color:rgba(101, 31, 255, 1);
+}
+.account{
+    font-weight: bold;
+    position: relative;
+    top:20px;
+    left:-45px;
+}
+.account1{
+    font-size: small;
+    position: relative;
+    top:12px;
+    left:-100px;
+    margin: 0 auto;
+    text-align: center;
+    max-width: 247px;
+    color:rgba(131, 134, 150, 1);
+}
+.file2{
+    position: relative;
+    top:5px;
+    left:310px;
+}
+.upload{
+    font-size: 30px;
+    color:rgba(101, 31, 255, 1);
+}
+.file3{
+    position: relative;
+    top:9px;
+    left:365px;
+}
+.link{
+    font-size: 25px;
+    color:rgba(101, 31, 255, 1);
+}
+.content8{
+    padding-left: 100px;
+    margin-top: 190px;
+}
+.ready{
+    font-weight: bold;
+    font-size: 2rem;
+}
+.ready1{
+    color: rgba(131, 134, 150, 1);
+    font-size: small;
+    position: relative;
+    top:-10px;
+}
+.create{
+    background-color: rgba(101, 31, 255, 1);
+    border-radius: 12px;
+    color: white;
+    padding: 5px 20px;
+    border-style: none;
+    position: relative;
+    left:800px;
+    top:-70px;
+}
+.box13{
+    border-style: solid;
+    margin-left: 95px;
+    border-radius: 12px;
+    width: 300px;
+    background-color: rgba(101, 31, 255, 1);
+    color: white;
+    height:230px;
+}
+.box-body13{
+    padding-left: 20px;
+    padding-top: 20px;
+    
+}
+.tie{
+    font-size: 25px;
+}
+.box-title13{
+    margin-top: 10px;
+    font-size: 1.3rem;
+    font-weight: bold;
+}
+.box14{
+    position: relative;
+    left:-140px;
+    top:-2px;
+    border-radius: 12px;
+    height:230px;
+    width: 625px;
+    background-color:rgba(236, 236, 254, 1);
+    color: rgba(101, 31, 255, 1);
+}
+.row11{
+    display: flex;
+}
+.box-body14{
+    padding-left: 20px;
+    padding-top: 20px;
+    
+}
+.bi{
+    font-size: 28px;
+}
+.box-title14{
+    margin-top: 10px;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+.frame{
+    float: right;
+}
+.box-text14{
+   width:320px;
+}
+.frame{
+    position: relative;
+    top:-210px;
+    left:-20px;
+    height:200px;
+    width:250px;
+}
