@@ -1,7 +1,6 @@
 import React from 'react'
 import './Header.css';
 import logo from '../images/logo.png';
-import  Button  from 'react-bootstrap/Button';
 function Header() {
   return (
     <>
@@ -20,8 +19,8 @@ function Header() {
      <ul>
         <li>App</li>
         <li>English</li>
-        <li><Button variant="outline-dark" size= "sm">Sign In</Button></li>
-        <li><Button variant="primary" size="sm">Create an account</Button></li>
+        <li><button className='sign1'>Sign In</button></li>
+        <li><button className='primary'>Create an account</button></li>
      </ul>
 
      
